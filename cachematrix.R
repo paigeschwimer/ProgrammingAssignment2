@@ -1,4 +1,4 @@
-## This pair of functions creates a special "matrix" object that can cache its inverse, and then either inverts the special "matrix", or returns the inverted matrix from the cache.
+## This pair of functions creates a special "matrix" object that can cache its inverse, and then either inverts the special "matrix", or returns the inverted "matrix" from the cache.
 
 ## Given a matrix this function will create a special "matrix object that can cache its inverse.
 
